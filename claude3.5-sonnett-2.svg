@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- Ground -->
+  <rect x="0" y="250" width="400" height="50" fill="#8B4513"/>
+  
+  <!-- Scooter -->
+  <circle cx="280" cy="250" r="20" fill="#666666"/> <!-- Back wheel -->
+  <circle cx="120" cy="250" r="20" fill="#666666"/> <!-- Front wheel -->
+  <path d="M120 250 L280 250 L240 180 L160 180" fill="none" stroke="#FF0000" stroke-width="8"/> <!-- Frame -->
+  <rect x="240" y="140" width="10" height="40" fill="#FF0000"/> <!-- Handlebar post -->
+  <path d="M220 140 L270 140" stroke="#FF0000" stroke-width="8"/> <!-- Handlebar -->
+  
+  <!-- Bear -->
+  <circle cx="200" cy="120" r="40" fill="#8B4513"/> <!-- Head -->
+  <circle cx="180" cy="110" r="8" fill="black"/> <!-- Left eye -->
+  <circle cx="220" cy="110" r="8" fill="black"/> <!-- Right eye -->
+  <ellipse cx="200" cy="125" rx="15" ry="10" fill="#654321"/> <!-- Snout -->
+  <circle cx="200" cy="130" r="5" fill="black"/> <!-- Nose -->
+  
+  <!-- Bear ears -->
+  <circle cx="170" cy="90" r="15" fill="#8B4513"/>
+  <circle cx="230" cy="90" r="15" fill="#8B4513"/>
+  
+  <!-- Bear body -->
+  <ellipse cx="200" cy="180" rx="35" ry="40" fill="#8B4513"/>
+  
+  <!-- Arms -->
+  <path d="M180 160 L240 140" stroke="#8B4513" stroke-width="15" stroke-linecap="round"/>
+  <path d="M220 160 L260 140" stroke="#8B4513" stroke-width="15" stroke-linecap="round"/>
+  
+  <!-- Legs -->
+  <path d="M185 210 L170 240" stroke="#8B4513" stroke-width="15" stroke-linecap="round"/>
+  <path d="M215 210 L230 240" stroke="#8B4513" stroke-width="15" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,48 @@
+<svg
+    width="300"
+    height="300"
+    viewBox="0 0 300 300"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#D3E5FF"/>
+
+    <!-- Scooter Base -->
+    <line x1="60" y1="200" x2="220" y2="200" stroke="black" stroke-width="6"/>
+    
+    <!-- Wheels -->
+    <circle cx="70" cy="200" r="20" fill="black"/>
+    <circle cx="210" cy="200" r="20" fill="black"/>
+    
+    <!-- Scooter Handle -->
+    <line x1="190" y1="200" x2="190" y2="130" stroke="black" stroke-width="6"/>
+    <line x1="190" y1="130" x2="160" y2="110" stroke="black" stroke-width="6"/>
+    
+    <!-- Bear Body -->
+    <ellipse cx="120" cy="140" rx="40" ry="50" fill="brown"/>
+    
+    <!-- Bear Head -->
+    <circle cx="120" cy="80" r="30" fill="brown"/>
+    
+    <!-- Bear Ears -->
+    <circle cx="100" cy="55" r="10" fill="brown"/>
+    <circle cx="140" cy="55" r="10" fill="brown"/>
+    
+    <!-- Bear Eyes -->
+    <circle cx="110" cy="75" r="5" fill="white"/>
+    <circle cx="130" cy="75" r="5" fill="white"/>
+    
+    <!-- Bear Pupils -->
+    <circle cx="112" cy="75" r="2" fill="black"/>
+    <circle cx="132" cy="75" r="2" fill="black"/>
+    
+    <!-- Bear Nose -->
+    <ellipse cx="120" cy="85" rx="5" ry="3" fill="black"/>
+    
+    <!-- Bear Arms -->
+    <line x1="95" y1="140" x2="160" y2="110" stroke="brown" stroke-width="6"/>
+    
+    <!-- Bear Legs -->
+    <line x1="120" y1="185" x2="110" y2="200" stroke="brown" stroke-width="6"/>
+    <line x1="130" y1="185" x2="120" y2="200" stroke="brown" stroke-width="6"/>
+</svg>

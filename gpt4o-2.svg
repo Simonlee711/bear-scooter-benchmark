@@ -1,0 +1,39 @@
+<svg
+    viewBox="0 0 200 200"
+    xmlns="http://www.w3.org/2000/svg"
+    fill="none"
+    stroke="black"
+    stroke-width="2"
+>
+    <!-- Bear body -->
+    <circle cx="100" cy="80" r="20" fill="brown" />
+    <circle cx="90" cy="70" r="8" fill="brown" />
+    <circle cx="110" cy="70" r="8" fill="brown" />
+    
+    <!-- Bear face -->
+    <circle cx="100" cy="78" r="5" fill="black" />
+    <circle cx="94" cy="78" r="2" fill="white" />
+    <circle cx="106" cy="78" r="2" fill="white" />
+    <circle cx="96" cy="85" r="2" fill="black" />
+    <circle cx="104" cy="85" r="2" fill="black" />
+    <path d="M 98 90 Q 100 92 102 90" stroke="black" fill="none"/>
+
+    <!-- Bear arms -->
+    <line x1="90" y1="100" x2="75" y2="130" stroke="brown" stroke-width="5"/>
+    <line x1="110" y1="100" x2="125" y2="130" stroke="brown" stroke-width="5"/>
+
+    <!-- Bear legs -->
+    <line x1="95" y1="120" x2="90" y2="150" stroke="brown" stroke-width="5"/>
+    <line x1="105" y1="120" x2="110" y2="150" stroke="brown" stroke-width="5"/>
+
+    <!-- Scooter deck -->
+    <rect x="60" y="150" width="80" height="10" fill="gray"/>
+
+    <!-- Scooter handle -->
+    <line x1="120" y1="130" x2="140" y2="80" stroke="gray" stroke-width="5"/>
+    <line x1="140" y1="80" x2="150" y2="80" stroke="gray" stroke-width="5"/>
+
+    <!-- Wheels -->
+    <circle cx="70" cy="160" r="8" fill="black"/>
+    <circle cx="130" cy="160" r="8" fill="black"/>
+</svg>
